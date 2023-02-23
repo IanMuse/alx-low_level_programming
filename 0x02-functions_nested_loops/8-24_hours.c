@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * jack_bauer -  function that prints every minute of the day of Jack Bauer, 24 hour clock
+ * jack_bauer - function that prints every minute of the day of jack
  * h = hour, m = minutes
  * / 10 allows second digits to rotate
  * for loop breaks before passing 24:00
